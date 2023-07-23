@@ -1,7 +1,5 @@
 # Voice based E-mail for the Blind
 
-### This code can be improved by uisng an AI model for speech to text conversion. Thus improving the results of the code.
-
 
 ## About:
 
@@ -19,3 +17,6 @@ The functionality of the code is listed here in brief:
 - Voice Feedback: The programme employs voice feedback and prompts to help the user through the process and let them know what activities are being taken.
 
 With the use of this code, visually impaired people will be able to send emails using voice commands, making it simpler for them to use technology and communicate with others via email. Please be aware that using email credentials within a script could have security repercussions, and that it's crucial to handle sensitive information with care and make sure that the necessary security safeguards are in place.
+
+
+### This code can be improved by uisng an AI model for speech to text conversion. Thus improving the results of the code.
